@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Cyberbiology](https://github.com/MuramatKuskov/cyberbiology)
+- 🔭 I’m currently working on [TuskDietBot](https://web.telegram.org/k/#@TuskDietBot)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **ki6org1488@gmail.com**
 
