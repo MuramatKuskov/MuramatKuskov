@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
-<h3 align="center">A frontend developer from Ukraine</h3>
+<h3 align="center">A software developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muramatkuskov&label=Profile%20views&color=0e75b6&style=flat" alt="muramatkuskov" /> </p>
 
-- 🔭 I’m currently working on [TuskDietBot](https://web.telegram.org/k/#@TuskDietBot)
+- 🔭 I’m currently working on unifying the general theory of relativity and quantum mechanics
 
-- 🌱 I’m currently learning **TypeScript, MongoDB**
+- 🌱 I’m currently learning [Основы C++](https://www.youtube.com/playlist?list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r) & [**MIT 8.286 The Early Universe, Fall 2013**](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra)
 
 - 📫 How to reach me **habroserhii@gmail.com**
 
